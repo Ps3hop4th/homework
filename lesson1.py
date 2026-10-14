@@ -1,0 +1,10 @@
+temp=float(input("какая температура в Бишкеке- "))
+temp_2=float(input("какая температура в Нарыне- "))
+temp_3=float(input("какая температура в Джалал-Абаде- "))
+temp_4=float(input("какая температура в Оше- "))
+temp_5=float(input("какая температура в Таласе- "))
+temp_6=float(input("какая температура в Баткене- "))
+temp_7=float(input("какая температура в Иссык-Куле- "))
+res= temp + temp_2 + temp_3 + temp_4 + temp_5 + temp_6 + temp_7
+res_float=round(res / 7, 1)
+print("Средняя температура:", res_float)
