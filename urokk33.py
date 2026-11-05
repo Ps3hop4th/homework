@@ -43,5 +43,3 @@
     
 #     print("letters:", letters)
 #     print("numbers:", numbers)
-
-# это страка 47 для теста гитхаба была использована
